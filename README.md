@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/walter0916/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=walter0916&hide=issues,stars&theme=blue-green" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=walter0916&hide=issues,stars&theme=blue-green" />
 </a>
 <a href="https://github.com/walter0916/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walter0916&layout=compact&langs_count=8&card_width=320&theme=blue-green" />
